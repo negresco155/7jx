@@ -1,1 +1,2 @@
-<h2></h2> minci calc
+<h2> MINI CALC POR </h2>
+<p> sistema de calculadora, lingua POR </p>
