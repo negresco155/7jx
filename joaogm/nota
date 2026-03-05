@@ -1,0 +1,33 @@
+<script>
+    
+    for (let contador = 1; contador <= 3; contador++ )
+
+    {
+
+    let n1, n2, media;
+
+    alert ( "Aluno" + contador); 
+
+    n1 = parseFloat(prompt("Digite a primeira nota: ")); 
+
+    n2 = parseFloat(prompt("Digite a segunda nota: "));
+
+    media = (n1+n2) / 2;
+
+    alert(media);
+    
+    if (media >= 7) {
+
+    alert("O Aluno foi aprovado! :)");
+
+    } else
+    
+    {
+        
+    alert("O Aluno foi reprovado! :(");
+    
+    }
+
+    }
+
+</script>
